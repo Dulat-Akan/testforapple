@@ -1,0 +1,58 @@
+.centralElements{
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color:#0083ff;
+}
+
+.inputClass{
+  width:200px;
+  float:left;
+}
+
+.ButtonClass{
+  margin-top:10px;
+  width:150px;
+  float:left;
+}
+
+.TitleClass{
+  width:550px;
+}
+
+.formBlock{
+  width:350px;
+}
+
+.generateBlock{
+  width:400px;
+}
+
+.successClass{
+  width:100%;
+}
+
+.upperCaseClass{
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.divPaddingClass{
+  padding:5px;
+}
+
+.SecondButtonClass{
+  margin-top:10px;
+  width:400px;
+}
+
+.secondBlockMargin{
+  margin-top:5%;
+}
+
+.thirdBlock{
+  margin-top:5%;
+  color:black;
+}
